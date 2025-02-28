@@ -11,6 +11,10 @@ import org.springframework.stereotype.Component;
 @Component
 public class DataLoader implements CommandLineRunner {
 
+    /**
+     * In dieser Klasse werden ein parr Daten in der DatenBank bei run des Backends erstellt.
+     * Dies ist nur dazu gemeint die Funktionalitäten zu testen.
+     */
 
     @Autowired
     private ProjectRepository projectRepository;
