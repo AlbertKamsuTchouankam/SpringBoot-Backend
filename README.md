@@ -11,8 +11,8 @@ This project illustrates the implementation of a **REST API** with **Spring Boot
 ### 1️⃣ Clone the project
 ```sh
 
-git clone https://github.com/AlbertKamsuTchouankam/project-Backend.git
-cd project-Backend
+git clone https://github.com/AlbertKamsuTchouankam/SpringBoot-Backend.git
+cd SpringBoot-Backend
 ```
 ### 2️⃣  Configure the database
 Modify the file   src/main/resources/application.properties :
